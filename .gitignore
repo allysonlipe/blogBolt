@@ -1,0 +1,15 @@
+# Arquivos gerados automaticamente
+/node_modules/
+/package-lock.json
+
+# Arquivos de log
+*.log
+
+# Arquivos de ambiente específicos do desenvolvedor
+.env
+
+# Arquivos de compilação ou cache
+*.o
+*.out
+
+# Dependendo do seu ambiente de desenvolvimento e ferramentas utilizadas, você pode precisar adicionar mais regras de exclusão aqui.
